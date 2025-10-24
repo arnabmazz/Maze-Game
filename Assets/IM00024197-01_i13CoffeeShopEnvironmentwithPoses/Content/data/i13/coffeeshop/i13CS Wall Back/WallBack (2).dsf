@@ -1,0 +1,467 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/i13/coffeeshop/i13CS%20Wall%20Back/WallBack%20%282%29.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "i13",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-01-27T06:40:35Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "WallBack (2)-1",
+			"name" : "WallBack (2)",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 44,
+				"values" : [
+					[ -455.301, 0.859798, -316.671 ],
+					[ 966.049, 0.859798, -316.671 ],
+					[ -455.301, 371.938, -316.671 ],
+					[ 966.049, 371.938, -316.671 ],
+					[ -455.301, 124.552, -316.671 ],
+					[ 966.049, 124.552, -316.671 ],
+					[ 966.049, 248.245, -316.671 ],
+					[ -455.301, 248.245, -316.671 ],
+					[ -472.678, 0.859798, -334.048 ],
+					[ -472.678, 124.552, -334.048 ],
+					[ -472.678, 248.245, -334.048 ],
+					[ -472.678, 371.938, -334.048 ],
+					[ 983.426, 248.245, -334.048 ],
+					[ 983.426, 371.938, -334.048 ],
+					[ 983.426, 0.859798, -334.048 ],
+					[ 983.426, 124.552, -334.048 ],
+					[ -455.301, 15.9752, -316.671 ],
+					[ 966.049, 15.9752, -316.671 ],
+					[ 960.551, 0.842701, -311.438 ],
+					[ -449.803, 0.842701, -311.438 ],
+					[ 960.551, 15.6283, -311.438 ],
+					[ 960.827, 16.0075, -311.701 ],
+					[ -450.079, 16.0075, -311.701 ],
+					[ -449.803, 15.6283, -311.438 ],
+					[ 960.572, 15.7738, -311.458 ],
+					[ -449.824, 15.7738, -311.458 ],
+					[ 960.632, 15.8971, -311.515 ],
+					[ -449.884, 15.8971, -311.515 ],
+					[ 960.722, 15.9792, -311.6 ],
+					[ -449.974, 15.9792, -311.6 ],
+					[ -455.301, 359.28, -316.671 ],
+					[ 966.049, 359.28, -316.671 ],
+					[ 960.551, 374.412, -311.438 ],
+					[ -449.803, 374.412, -311.438 ],
+					[ 960.551, 359.626, -311.438 ],
+					[ 960.827, 359.247, -311.701 ],
+					[ -450.079, 359.247, -311.701 ],
+					[ -449.803, 359.626, -311.438 ],
+					[ 960.572, 359.481, -311.458 ],
+					[ -449.824, 359.481, -311.458 ],
+					[ 960.632, 359.358, -311.515 ],
+					[ -449.884, 359.358, -311.515 ],
+					[ 960.722, 359.276, -311.6 ],
+					[ -449.974, 359.276, -311.6 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"Default"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 3,
+				"values" : [
+					"WallInner",
+					"WallOuter",
+					"WallTrim"
+				]
+			},
+			"polylist" : {
+				"count" : 26,
+				"values" : [
+					[ 0, 0, 11, 2, 3, 13 ],
+					[ 0, 0, 2, 7, 6, 3 ],
+					[ 0, 0, 14, 1, 0, 8 ],
+					[ 0, 0, 1, 5, 4, 0 ],
+					[ 0, 0, 5, 6, 7, 4 ],
+					[ 0, 0, 1, 14, 15, 5 ],
+					[ 0, 0, 5, 15, 12, 6 ],
+					[ 0, 0, 6, 12, 13, 3 ],
+					[ 0, 0, 8, 0, 4, 9 ],
+					[ 0, 0, 9, 4, 7, 10 ],
+					[ 0, 0, 10, 7, 2, 11 ],
+					[ 0, 1, 11, 13, 12, 10 ],
+					[ 0, 1, 14, 8, 9, 15 ],
+					[ 0, 1, 15, 9, 10, 12 ],
+					[ 0, 2, 23, 20, 24, 25 ],
+					[ 0, 2, 25, 24, 26, 27 ],
+					[ 0, 2, 27, 26, 28, 29 ],
+					[ 0, 2, 29, 28, 21, 22 ],
+					[ 0, 2, 21, 17, 16, 22 ],
+					[ 0, 2, 20, 23, 19, 18 ],
+					[ 0, 2, 37, 39, 38, 34 ],
+					[ 0, 2, 39, 41, 40, 38 ],
+					[ 0, 2, 41, 43, 42, 40 ],
+					[ 0, 2, 43, 36, 35, 42 ],
+					[ 0, 2, 35, 36, 30, 31 ],
+					[ 0, 2, 34, 32, 33, 37 ]
+				]
+			},
+			"default_uv_set" : "/data/i13/coffeeshop/i13CS%20Wall%20Back/UV%20Sets/i13/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "WallBack (2)",
+			"name" : "WallBack (2)",
+			"type" : "node",
+			"label" : "i13CS Wall Back",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 255.374,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : 0.842701,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : -322.743,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 255.374,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 374.412,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : -322.743,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 0,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,1057 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="80b7121c-a3ef-4945-bc72-4f9e0b867cbb"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/I13 CS biscotti Jar/biscottiJar.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/I13 CS biscotti Jar/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/I13 CS biscotti Tray/biscottiTray.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/I13 CS biscotti Tray/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/I13 CS cake pan 1/CakePan 1.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/I13 CS cake pan 1/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/I13 CS cake pan 2/Cake Pan 2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/I13 CS cake pan 2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/I13 CS case/Case.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/I13 CS case/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs 4 bottles/4 bottles.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs 4 bottles/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Bottle/Bottle (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Bottle/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Bottle 2/Bottle2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Bottle 2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Bottle With Liquid/Bottle with liquid.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Bottle With Liquid/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cake/Cake.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cake/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Candy Jar/CandyJar (10) (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Candy Jar/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cannister 1/Jar1 (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cannister 1/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cannister 2/Jar3 (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cannister 2/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Canvas/paint2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Canvas/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS CD PLayer/CDPlayer (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS CD PLayer/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Chair/chair.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Chair/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Chair Tall/i13ch Chair Tall.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Chair Tall/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs coffee dispenser a/Coffee dispenser.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs coffee dispenser a/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs coffee dispenser b/Coffee dispenser.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs coffee dispenser b/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS coffee sign/Coffee Sign rear.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS coffee sign/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs counter front/Counter.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs counter front/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cup Small/cup small.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cup Small/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cup Stack/CupStack (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cup Stack/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cup Tall/cup tall.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Cup Tall/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Dispenser/CoffeeDraws (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Dispenser/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Door Left/Door Left.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Door Left/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Door Right/Door Right.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Door Right/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Door Top/Door Top.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Door Top/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Espresso Machine/CoffeeMachine (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Espresso Machine/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Floor/Floor (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Floor/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Light/chandaler (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Light/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Paper Cup/Coffee cup and lid.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Paper Cup/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs picture square/Coffee shop Picture.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs picture square/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Plate/I13 cs plate.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Plate/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs pos register/Pos system.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs pos register/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Roof/roof2.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Roof/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Saucer/saucer.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Saucer/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Shelving/Units (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Shelving/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sign/Sign (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sign/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sign Outdoor/sign3 (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sign Outdoor/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sign Tall/picture tall ud.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sign Tall/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sign Wide/picture wide ud.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sign Wide/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sink Counter/Sink.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sink Counter/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Speaker/speaker (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Speaker/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Steam Jug/steam jug.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Steam Jug/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs stocked shelf/CS Premade shelfC.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs stocked shelf/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sugar Bowl/SugarBowl (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sugar Bowl/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs sugar packet/Sugar Packet.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs sugar packet/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sugar Pot/SugarPot (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Sugar Pot/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Table/table.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Table/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Table Tall/Window Table (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Table Tall/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs table tent/Table tent.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs table tent/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Tile/tile.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Tile/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Tin/TinSmall (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Tin/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Toaster/Toaster (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Toaster/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Toaster Oven/toster oven (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Toaster Oven/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Wall Back/WallBack (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Wall Back/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs wall back metal/Metal Strip.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13cs wall back metal/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Wall Front/WallFront (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Wall Front/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Wall Left/WallLeft (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Wall Left/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Wall Right/WallRight (2).dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/i13CS Wall Right/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/khkjhn/Bottle with liquid.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/khkjhn/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/tpf spoder plant/TPF_Spider_Plant.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/data/i13/coffeeshop/tpf spoder plant/UV Sets/i13/Base/default.dsf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Ready Scene and Preload.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 01.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 01.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 02.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 02.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 03.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 03.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 04.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 04.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 05.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 05.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 06.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 06.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 07.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 07.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 08.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 08.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 09.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 09.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 10.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Camera Presets/i13cs Camera 10.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 01 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 01 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 02 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 02 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 03 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 03 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 03 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 03 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 04 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 04 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 04 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 04 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 05 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 05 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 05 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 05 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 06 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 06 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 06 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 06 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 07 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 07 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 07 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Barista 07 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 01 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 01 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 02 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 02 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 03 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 03 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 03 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 03 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 04 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 04 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 04 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 04 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 05 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 05 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 05 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Customer 05 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set A 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set A 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set A 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set A 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set A 03 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set A 03 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set A 04 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set A 04 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set B 01 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set B 01 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set B 02 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set B 02 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set B 03 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set B 03 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set B 04 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set B 04 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set C 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set C 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set C 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set C 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set C 03 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set C 03 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set C 04 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set C 04 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set D 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set D 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set D 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set D 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set D 03 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set D 03 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set D 04 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Table Set D 04 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 01 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 01 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 02 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 02 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 03 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 03 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 03 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 03 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 04 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 04 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 04 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 04 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 05 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 05 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 05 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Go To Poses/i13CS Tall Table 05 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 01 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 01 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 01 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 01 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 01 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 01 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 01 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 01 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 02 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 02 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 02 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 02 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 02 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 02 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 02 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 02 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 03 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 03 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 03 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 03 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 03 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 03 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 03 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 03 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 04 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 04 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 04 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 04 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 04 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 04 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 04 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 04 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 05 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 05 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 05 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 05 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 05 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 05 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 05 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 05 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 06 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 06 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 06 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 06 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 06 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 06 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 06 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 06 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 07 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 07 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 07 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 07 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 07 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 07 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 07 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Barista 07 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 01 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 01 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 01 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 01 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 01 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 01 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 01 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 01 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 02 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 02 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 02 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 02 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 02 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 02 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 02 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 02 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 03 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 03 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 03 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 03 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 03 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 03 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 03 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 03 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 04 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 04 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 04 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 04 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 04 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 04 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 04 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 04 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 05 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 05 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 05 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 05 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 05 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 05 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 05 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Customer 05 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 01 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 01 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 01 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 01 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 02 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 02 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 02 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 02 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 03 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 03 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 03 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 03 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 04 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 04 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 04 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set A 04 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 01 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 01 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 01 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 01 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 02 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 02 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 02 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 02 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 03 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 03 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 03 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 03 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 04 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 04 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 04 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set B 04 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 01 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 01 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 01 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 01 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 02 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 02 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 02 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 02 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 03 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 03 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 03 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 03 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 04 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 04 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 04 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set C 04 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 01 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 01 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 01 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 01 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 02 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 02 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 02 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 02 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 03 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 03 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 03 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 03 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 04 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 04 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 04 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Table Set D 04 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 01 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 01 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 01 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 01 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 01 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 01 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 01 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 01 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 02 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 02 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 02 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 02 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 02 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 02 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 02 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 02 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 03 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 03 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 03 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 03 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 03 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 03 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 03 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 03 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 04 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 04 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 04 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 04 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 04 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 04 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 04 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 04 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 05 G3F Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 05 G3F Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 05 G3F M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 05 G3F M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 05 G3M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 05 G3M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 05 G3M M Bottom.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Lower Body/i13CS Tall Table 05 G3M M Bottom.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 01 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 01 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 01 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 01 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 01 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 01 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 01 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 01 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 02 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 02 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 02 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 02 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 02 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 02 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 02 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 02 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 03 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 03 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 03 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 03 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 03 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 03 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 03 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 03 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 04 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 04 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 04 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 04 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 04 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 04 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 04 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 04 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 05 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 05 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 05 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 05 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 05 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 05 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 05 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 05 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 06 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 06 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 06 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 06 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 06 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 06 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 06 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 06 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 07 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 07 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 07 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 07 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 07 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 07 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 07 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Barista 07 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 01 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 01 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 01 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 01 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 01 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 01 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 01 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 01 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 02 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 02 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 02 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 02 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 02 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 02 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 02 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 02 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 03 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 03 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 03 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 03 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 03 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 03 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 03 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 03 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 04 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 04 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 04 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 04 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 04 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 04 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 04 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 04 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 05 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 05 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 05 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 05 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 05 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 05 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 05 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Customer 05 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 01 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 01 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 01 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 01 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 02 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 02 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 02 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 02 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 03 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 03 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 03 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 03 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 04 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 04 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 04 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set A 04 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 01 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 01 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 01 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 01 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 02 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 02 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 02 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 02 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 03 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 03 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 03 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 03 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 04 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 04 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 04 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set B 04 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 01 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 01 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 01 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 01 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 02 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 02 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 02 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 02 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 03 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 03 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 03 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 03 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 04 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 04 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 04 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set C 04 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 01 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 01 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 01 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 01 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 02 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 02 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 02 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 02 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 03 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 03 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 03 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 03 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 04 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 04 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 04 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Table Set D 04 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 01 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 01 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 01 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 01 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 01 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 01 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 01 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 01 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 02 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 02 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 02 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 02 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 02 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 02 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 02 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 02 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 03 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 03 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 03 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 03 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 03 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 03 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 03 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 03 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 04 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 04 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 04 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 04 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 04 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 04 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 04 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 04 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 05 G3F M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 05 G3F M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 05 G3F Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 05 G3F Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 05 G3M M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 05 G3M M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 05 G3M Top.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Separate Poses/Upper Body/i13CS Tall Table 05 G3M Top.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 01 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 01 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 01 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 01 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 01 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 01 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 02 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 02 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 02 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 02 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 02 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 02 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 03 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 03 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 03 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 03 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 03 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 03 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 03 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 03 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 04 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 04 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 04 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 04 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 04 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 04 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 04 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 04 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 05 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 05 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 05 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 05 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 05 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 05 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 05 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 05 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 06 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 06 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 06 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 06 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 06 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 06 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 06 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 06 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 07 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 07 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 07 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 07 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 07 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 07 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 07 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Barista 07 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 01 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 01 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 01 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 01 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 01 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 01 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 02 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 02 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 02 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 02 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 02 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 02 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 03 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 03 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 03 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 03 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 03 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 03 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 03 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 03 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 04 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 04 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 04 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 04 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 04 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 04 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 04 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 04 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 05 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 05 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 05 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 05 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 05 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 05 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 05 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Customer 05 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 01 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 01 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 02 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 02 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 03 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 03 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 03 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 03 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 04 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 04 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 04 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set A 04 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 01 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 01 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 01 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 01 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 02 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 02 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 02 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 02 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 03 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 03 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 03 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 03 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 04 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 04 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 04 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set B 04 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 01 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 01 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 02 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 02 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 03 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 03 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 03 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 03 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 04 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 04 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 04 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set C 04 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 01 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 01 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 02 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 02 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 03 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 03 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 03 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 03 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 04 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 04 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 04 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Table Set D 04 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 01 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 01 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 01 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 01 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 01 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 01 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 01 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 01 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 02 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 02 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 02 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 02 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 02 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 02 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 02 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 02 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 03 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 03 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 03 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 03 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 03 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 03 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 03 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 03 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 04 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 04 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 04 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 04 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 04 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 04 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 04 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 04 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 05 G3F M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 05 G3F M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 05 G3F.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 05 G3F.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 05 G3M M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 05 G3M M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 05 G3M.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Poses/Use Anywhere Poses/i13CS Tall Table 05 G3M.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Ready Scene and Preload/i13CS Preload Full.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Ready Scene and Preload/i13CS Preload Full.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Ready Scene and Preload/i13CS Preload Lite.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Ready Scene and Preload/i13CS Preload Lite.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Ready Scene and Preload/i13CS Ready To Render Full.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Ready Scene and Preload/i13CS Ready To Render Full.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Ready Scene and Preload/i13CS Ready To Render Lite.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Ready Scene and Preload/i13CS Ready To Render Lite.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Cake.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Cake.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Coffee Dispenser.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Coffee Dispenser.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Counter Front.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Counter Front.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Espresso Machine.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Espresso Machine.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Over Shelf Unit.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Over Shelf Unit.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Paper Cup.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Paper Cup.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Pastry Case.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Pastry Case.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Plate.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Plate.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS POS Register.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS POS Register.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Stocked Shelf.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Stocked Shelf.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Table Set.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Table Set.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Tall Table Set.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS Tall Table Set.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS TPF Spider Plant.duf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Environments/i13/Coffee Shop/Separate Items/i13CS TPF Spider Plant.duf.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_24197_i13_Coffee_Shop_Environment_with_Poses.dsa"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_24197_i13_Coffee_Shop_Environment_with_Poses.dsx"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Support/DAZ_3D_24197_i13_Coffee_Shop_Environment_with_Poses.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/A_i13_wood-warm-horizontal2-base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/biscotti_Base_color.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/biscotti_Base_colorB.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/biscotti_Base_nmap.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/biscottiB_Base_nmap.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/cake 2__032cake_0322_nmap.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/cake 2__DiffuseB.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/cake 2_Diffuse.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/Coffee Sign rear_CoffeeSign_color.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/Coffee Sign rear_CoffeeSign_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/Counter_I13_CS_cabnit_color.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/Counter_I13_CS_cabnit_nmap.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/Counter_I13_CS_cabnit_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13128-wht.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabel2_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabel2_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabel3_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabel4_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabel5_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabel6.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabel7.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabel_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabelcannister-01.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabelcannister-02.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabelcannister-03.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabelcannister-04.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabelcannister2-01.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabelcannister2-04.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabelTIN-01.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabelTIN-02.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabelTIN-03.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_bottlelabelTIN-04.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_cannistertop_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_cannistertop_metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_cannistertop_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_chandelier_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_chandelier_metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_chandelier_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_chandelierwood_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_chandelierwood_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_CS_cakeroughness.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_CS_Plant 1.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_SugarPacket.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_SugarPacket2.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_SugarPacket3.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/I13_WallbaseColor.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/I13_Wallnormal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/I13_Wallroughness.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-horizontal-metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-horizontal-normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-horizontal-rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-light-horzontal-base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-light-vertical-base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-vertical-metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-vertical-normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-vertical-rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-warm-horizontal-base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-warm-vertical-base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-yellow-horizontal-base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13_wood-yellow-vertical-base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Beans_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Bottle1_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_brick_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_brick_normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_brick_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Cannister1_Base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Cannister1_Metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Cannister1_normal.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Cannister1_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Cannister2_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Cannister2_metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Cannister2_normal.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Cannister2_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_chalkboard1_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_chalkboard2_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_chalkboard2_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_chalkboard_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_concrete_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_concrete_normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_concrete_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_counter_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_counter_metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_counter_normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_counter_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_floor_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_floor_normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_floor_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_foam_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_foam_normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_foam_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_painting2.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_ShelfUnit_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_ShelfUnit_normal.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_ShelfUnit_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_sidecounter_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_sidecounter_normal.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_sidecounter_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_sign_base2.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_sign_base3.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_sign_base4.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_signoutdoor_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_signoutdoor_metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_signoutdoor_normal.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_signoutdoor_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Skylight_Base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Skylight_normal.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_Skylight_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_speaker_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_speaker_normal.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_speaker_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tabletall_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tabletall_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tabletall_rough.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tile_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tile_normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tile_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tin_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tin_metal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tin_normal.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tin_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tinlabel_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tinlabel_normal.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_tinlabel_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_wall_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_wall_normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_wall_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_wood_base.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_wood_base2.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_wood_base3.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_wood_normal.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CH_wood_rough.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_Cake_color.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_Cake_nrml.png"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_01.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_02.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_03.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_04.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_05.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_06.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_07.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_Canvas01.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_Canvas02.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_Canvas03.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_Canvas04.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_Canvas05.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabel_Canvas06.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewLabelCloth_RoughBump.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewSign_01.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewSign_02.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewSign_03.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewSign_04.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewSign_05.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewSign_06.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewSign_07.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewSign_08.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewSign_09.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_NewSign_10.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_POScustomerscreen.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_receipt.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/Runtime/Textures/i13/coffeeshop/i13CS_Screen2.jpg"/>
+</DAZInstallManifest>

@@ -1,0 +1,529 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/i13/coffeeshop/i13cs%20wall%20back%20metal/Metal%20Strip.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "i13",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-01-27T06:44:26Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "Metal Strip-1",
+			"name" : "Metal Strip",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 68,
+				"values" : [
+					[ 965.811, 170.17, -317.344 ],
+					[ 965.9371, 170.251, -317.204 ],
+					[ 965.951, 170.17, -317.204 ],
+					[ -455.523, 170.17, -317.204 ],
+					[ -455.509, 170.251, -317.204 ],
+					[ -455.383, 170.17, -317.344 ],
+					[ 965.9371, 170.251, -314.644 ],
+					[ 965.811, 170.17, -314.504 ],
+					[ 965.951, 170.17, -314.644 ],
+					[ -455.383, 170.17, -314.504 ],
+					[ -455.509, 170.251, -314.644 ],
+					[ -455.523, 170.17, -314.644 ],
+					[ 962.666, 168.05, -314.65 ],
+					[ 962.509, 168.147, -314.51 ],
+					[ 962.401, 167.969, -314.651 ],
+					[ 962.401, 167.969, -317.197 ],
+					[ 962.509, 168.147, -317.338 ],
+					[ 962.666, 168.05, -317.198 ],
+					[ -451.973, 167.969, -317.197 ],
+					[ -452.238, 168.05, -317.198 ],
+					[ -452.081, 168.147, -317.338 ],
+					[ -451.973, 167.969, -314.651 ],
+					[ -452.081, 168.147, -314.51 ],
+					[ -452.238, 168.05, -314.65 ],
+					[ 962.537, 167.989, -317.197 ],
+					[ 962.537, 167.989, -314.65 ],
+					[ 965.9, 170.227, -317.303 ],
+					[ -455.472, 170.227, -317.303 ],
+					[ 965.969, 170.218, -314.644 ],
+					[ 965.969, 170.218, -317.204 ],
+					[ -455.541, 170.218, -317.204 ],
+					[ -455.541, 170.218, -314.644 ],
+					[ -455.472, 170.227, -314.545 ],
+					[ 965.9, 170.227, -314.545 ],
+					[ -452.188, 168.099, -317.297 ],
+					[ -455.482, 170.17, -317.303 ],
+					[ 965.91, 170.17, -317.303 ],
+					[ 962.616, 168.099, -317.297 ],
+					[ -455.482, 170.17, -314.545 ],
+					[ -452.188, 168.099, -314.551 ],
+					[ -452.109, 167.989, -314.65 ],
+					[ -452.109, 167.989, -317.197 ],
+					[ 962.616, 168.099, -314.551 ],
+					[ 965.91, 170.17, -314.545 ],
+					[ 962.429, 168.041, -314.551 ],
+					[ -452.001, 168.041, -314.551 ],
+					[ -452.001, 168.041, -317.297 ],
+					[ 962.429, 168.041, -317.297 ],
+					[ 965.953, 170.213, -317.289 ],
+					[ -455.525, 170.213, -317.289 ],
+					[ 965.953, 170.213, -314.559 ],
+					[ -455.525, 170.213, -314.559 ],
+					[ 962.533, 168.011, -314.556 ],
+					[ 962.533, 168.011, -317.292 ],
+					[ -452.105, 168.011, -317.292 ],
+					[ -452.105, 168.011, -314.556 ],
+					[ 262.321, 170.251, -317.204 ],
+					[ 262.321, 170.227, -317.303 ],
+					[ 262.32, 170.17, -317.344 ],
+					[ 262.321, 170.227, -314.545 ],
+					[ 262.321, 170.251, -314.644 ],
+					[ 262.32, 170.17, -314.504 ],
+					[ 262.286, 167.969, -314.651 ],
+					[ 262.286, 168.041, -314.551 ],
+					[ 262.287, 168.147, -314.51 ],
+					[ 262.286, 168.041, -317.297 ],
+					[ 262.286, 167.969, -317.197 ],
+					[ 262.287, 168.147, -317.338 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"Default"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 1,
+				"values" : [
+					"Metal_032strip"
+				]
+			},
+			"polylist" : {
+				"count" : 66,
+				"values" : [
+					[ 0, 0, 14, 15, 24, 25 ],
+					[ 0, 0, 25, 24, 17, 12 ],
+					[ 0, 0, 1, 6, 28, 29 ],
+					[ 0, 0, 29, 28, 8, 2 ],
+					[ 0, 0, 10, 4, 30, 31 ],
+					[ 0, 0, 31, 30, 3, 11 ],
+					[ 0, 0, 5, 20, 34, 35 ],
+					[ 0, 0, 35, 34, 19, 3 ],
+					[ 0, 0, 16, 0, 36, 37 ],
+					[ 0, 0, 37, 36, 2, 17 ],
+					[ 0, 0, 22, 9, 38, 39 ],
+					[ 0, 0, 39, 38, 11, 23 ],
+					[ 0, 0, 18, 21, 40, 41 ],
+					[ 0, 0, 41, 40, 23, 19 ],
+					[ 0, 0, 7, 13, 42, 43 ],
+					[ 0, 0, 43, 42, 12, 8 ],
+					[ 0, 0, 0, 26, 48, 36 ],
+					[ 0, 0, 1, 29, 48, 26 ],
+					[ 0, 0, 2, 36, 48, 29 ],
+					[ 0, 0, 3, 30, 49, 35 ],
+					[ 0, 0, 4, 27, 49, 30 ],
+					[ 0, 0, 5, 35, 49, 27 ],
+					[ 0, 0, 6, 33, 50, 28 ],
+					[ 0, 0, 7, 43, 50, 33 ],
+					[ 0, 0, 8, 28, 50, 43 ],
+					[ 0, 0, 9, 32, 51, 38 ],
+					[ 0, 0, 10, 31, 51, 32 ],
+					[ 0, 0, 11, 38, 51, 31 ],
+					[ 0, 0, 12, 42, 52, 25 ],
+					[ 0, 0, 13, 44, 52, 42 ],
+					[ 0, 0, 14, 25, 52, 44 ],
+					[ 0, 0, 15, 47, 53, 24 ],
+					[ 0, 0, 16, 37, 53, 47 ],
+					[ 0, 0, 17, 24, 53, 37 ],
+					[ 0, 0, 18, 41, 54, 46 ],
+					[ 0, 0, 19, 34, 54, 41 ],
+					[ 0, 0, 20, 46, 54, 34 ],
+					[ 0, 0, 21, 45, 55, 40 ],
+					[ 0, 0, 22, 39, 55, 45 ],
+					[ 0, 0, 23, 40, 55, 39 ],
+					[ 0, 0, 2, 8, 12, 17 ],
+					[ 0, 0, 11, 3, 19, 23 ],
+					[ 0, 0, 4, 56, 57, 27 ],
+					[ 0, 0, 56, 1, 26, 57 ],
+					[ 0, 0, 27, 57, 58, 5 ],
+					[ 0, 0, 57, 26, 0, 58 ],
+					[ 0, 0, 32, 59, 60, 10 ],
+					[ 0, 0, 59, 33, 6, 60 ],
+					[ 0, 0, 9, 61, 59, 32 ],
+					[ 0, 0, 61, 7, 33, 59 ],
+					[ 0, 0, 21, 62, 63, 45 ],
+					[ 0, 0, 62, 14, 44, 63 ],
+					[ 0, 0, 45, 63, 64, 22 ],
+					[ 0, 0, 63, 44, 13, 64 ],
+					[ 0, 0, 46, 65, 66, 18 ],
+					[ 0, 0, 65, 47, 15, 66 ],
+					[ 0, 0, 20, 67, 65, 46 ],
+					[ 0, 0, 67, 16, 47, 65 ],
+					[ 0, 0, 5, 58, 67, 20 ],
+					[ 0, 0, 58, 0, 16, 67 ],
+					[ 0, 0, 22, 64, 61, 9 ],
+					[ 0, 0, 64, 13, 7, 61 ],
+					[ 0, 0, 10, 60, 56, 4 ],
+					[ 0, 0, 60, 6, 1, 56 ],
+					[ 0, 0, 18, 66, 62, 21 ],
+					[ 0, 0, 66, 15, 14, 62 ]
+				]
+			},
+			"default_uv_set" : "/data/i13/coffeeshop/i13cs%20wall%20back%20metal/UV%20Sets/i13/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "Metal Strip",
+			"name" : "Metal Strip",
+			"type" : "node",
+			"label" : "i13CS Wall Back Metal",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 255.214,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : 167.969,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : -315.924,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 255.214,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 170.251,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : -315.924,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}

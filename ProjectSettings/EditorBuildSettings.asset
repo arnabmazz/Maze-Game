@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Character Selection Menu And Scene/Character Selection Menu.unity
+    guid: d88da844d07162f428e89ef6f1c78bdd
+  - enabled: 1
+    path: Assets/Scene/Maze.unity
+    guid: 9bb4eaf5274b06346a98d491f90c1a2f
+  - enabled: 1
+    path: Assets/Scene/Start.unity
+    guid: a5a6a05882a634c42abc2588afc7e4ed
+  - enabled: 1
+    path: Assets/Scene/she.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scene/llk.unity
+    guid: 83238e5e3d175654a969290a6f6941bb
+  m_configObjects: {}
